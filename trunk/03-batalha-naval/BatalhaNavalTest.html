@@ -1,0 +1,104 @@
+<html>
+<title>A unit test for Batalha Naval</title>
+<head>
+<script type='text/javascript' src='../app/jsUnitCore.js'></script>
+<script type='text/javascript' src='BatalhaNaval.js'></script>
+<script type='text/javascript'>
+  /**
+    * assert([comment], booleanValue)
+    * assertTrue([comment], booleanValue)
+    * assertFalse([comment], booleanValue)
+    * assertEquals([comment], value1, value2)
+    * assertNotEquals([comment], value1, value2)
+    * assertNull([comment], value)
+    * assertNotNull([comment], value)
+    * assertUndefined([comment], value)
+    * assertNotUndefined([comment], value)
+    * assertNaN([comment], value)
+    * assertNotNaN([comment], value)
+    * fail(comment) 
+    **/
+
+	function setUp() {
+	}
+
+	function tearDown() {
+	}
+
+	function testArmarTabuleiroCom1Submarino() {
+		var tabuleiro = new Tabuleiro();
+		tabuleiro.preencherSubmarino(1, 5, 5);
+		assertEquals(1, tabuleiro.posicao(5, 5));
+	}
+
+        function testArmarTabuleiroCom1DestroyerVertical() {
+		var tabuleiro = new Tabuleiro();
+		
+		// 0 para vertical
+		// 1 para horizontal
+
+		tabuleiro.preencherDestroyer(1, 0, 5, 5);
+		assertEquals(1, tabuleiro.posicao(5, 5));
+		assertEquals(1, tabuleiro.posicao(6, 5));
+	}
+
+        function testArmarTabuleiroCom1DestroyerHorizontal() {
+		var tabuleiro = new Tabuleiro();
+		
+		// 0 para vertical
+		// 1 para horizontal
+
+		tabuleiro.preencherDestroyer(1, 1, 5, 5);
+		assertEquals(1, tabuleiro.posicao(5, 5));
+		assertEquals(1, tabuleiro.posicao(5, 6));
+	}
+ function testArmarTabuleiroCom1CruzadorHorizontal() {
+		var tabuleiro = new Tabuleiro();
+		
+		// 0 para vertical
+		// 1 para horizontal
+
+		tabuleiro.preencherCruzador(1, 1, 5, 5);
+		assertEquals(1, tabuleiro.posicao(5, 5));
+		assertEquals(1, tabuleiro.posicao(5, 6));
+		assertEquals(1, tabuleiro.posicao(5, 7));
+		assertEquals(1, tabuleiro.posicao(5, 8));
+	}
+
+        function testArmarTabuleiroCom1DestroyerHorizontalForaDoLimite() {
+		var tabuleiro = new Tabuleiro();
+		
+		// 0 para vertical
+		// 1 para horizontal
+
+		try{
+			tabuleiro.preencherDestroyer(1, 1, 5, 15);
+		}
+		catch(e){
+			assertTrue(true);
+			
+		}
+	}
+
+	 function testArmarTabuleiroCom1HidroCima() {
+		var tabuleiro = new Tabuleiro();
+		
+		// direcao
+		// 0 para cima
+		// 1 para baixo
+
+		tabuleiro.preencherHidro(1, 0, 5, 5);
+		assertEquals(1, tabuleiro.posicao(5, 5));
+		assertEquals(1, tabuleiro.posicao(6, 4));
+		assertEquals(1, tabuleiro.posicao(6, 6));
+	}
+
+	function testEscrevaSeuTeste2() {
+		
+		//assertTrue(false);
+	}
+
+</script>
+</head>
+<body />
+</html>
