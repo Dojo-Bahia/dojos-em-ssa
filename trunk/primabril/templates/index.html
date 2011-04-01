@@ -1,0 +1,15 @@
+$def with (frases)
+<h1>Cadastro de frase Primeiro de Abril</h1>
+
+$for frase in frases:
+    <p>$frase.texto -- $frase.flag</p>
+  
+
+<h2>Crie sua frase</h2>
+<form method="post" action="/frase">
+  <textarea name="texto"></textarea>
+  <input type="radio" name="flag" value="True" checked="true" />Verdade&nbsp;
+  <input type="radio" name="flag" value="False" />Mentira&nbsp;</br>
+<button type="submit">salvar</button>
+
+

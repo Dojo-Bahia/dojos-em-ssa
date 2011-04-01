@@ -1,0 +1,14 @@
+$def with (frase)
+<h1>Pesquisa de frases Primeiro de Abril</h1>
+
+   <p>$frase</p>
+  
+
+<h2>A frase é verdade ou mentira?</h2>
+<form method="post" action="/pesquisa">
+  <input type="text"  name="idFrase" value="$frase.id" /> 	
+  <input type="radio" name="flag" value="True" checked="true" />Verdade&nbsp;
+  <input type="radio" name="flag" value="False" />Mentira&nbsp;</br>
+<button type="submit">Responder</button>
+
+
