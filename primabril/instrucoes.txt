@@ -1,10 +1,7 @@
 INSTRUÇÕES:
-Descompactar este diretório dentro do diretório do SDK (http://googleappengine.googlecode.com/files/google_appengine_1.4.3.zip)
+Fazer download do Google App Engine SDK Python. 
 
 Para executar a aplicação:
-python dev_appserver.py primabril/
+python ../caminho/dev_appserver.py primabril/
 
 Após alterar qualquer template abaixo de primabril/templates, rodar compila_templates.sh
-
-
-Maurício Vieira <mauricio.vieira@gmail.com> Sex Abr  1 17:21:17 BRT 2011
