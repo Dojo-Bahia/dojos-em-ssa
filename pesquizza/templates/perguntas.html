@@ -1,0 +1,14 @@
+$def with (perguntas)
+<h1>Criar Perguntas</h1>
+
+<form method="post" action="/perguntas">
+    <label for="pergunta">Pergunta: </label><input type="text" name="pergunta" /><br>
+    <label for="opcoes">Opções:</label><textarea name="opcoes"></textarea><br>
+<button type="submit">save</button>
+</form>
+
+
+<h1>Perguntas feitas</h1>
+
+$for pergunta in perguntas:
+    $pergunta.pergunta : $pergunta.opcoes <br>

@@ -1,0 +1,11 @@
+$def with (respostas, pergunta)
+<h1>Pesquisa</h1>
+
+<h2>Responda a Pesquisa</h2>
+$pergunta
+<form method="post" action="/">
+    <label for="usuario">Usuário: </label><input type="text" name="usuario" /><br>
+$for opcao in respostas:
+    <label for="opcao">Opção:</label><input type="radio" name="opcao" value="$opcao">$opcao</input><Br>
+<button type="submit">save</button>
+</form>
