@@ -1,0 +1,6 @@
+<form action="/admin/game?acao=save" method="post">
+  <input type="hidden" name="key" value="{{jogo.key}}" />
+  Jogo: <input name="jogo" type="text" value="{{jogo.jogo}}" /> <br />
+  Número de participantes: <input name="maxParticipantes" type="text" value="{{jogo.maxParticipantes}}" /> <br />
+  <input value="Salvar" type="submit" />
+</form>
