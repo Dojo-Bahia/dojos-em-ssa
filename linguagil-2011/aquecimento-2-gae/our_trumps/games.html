@@ -1,0 +1,3 @@
+{% for j in jogos %}
+    {{ j.jogo }} - {{ j.maxParticipantes }} <a href="/admin/game?acao=edit&jogo={{ j.key }}">editar</a><br>
+{% endfor %}
