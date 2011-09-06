@@ -1,0 +1,694 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "176-280",
+               "short_name" : "176-280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Av. Estados Unidos",
+               "short_name" : "Av. Estados Unidos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Comércio",
+               "short_name" : "Comércio",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40010-020",
+               "short_name" : "40010-020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Estados Unidos, 176-280 - Comércio, Salvador - BA, 40010-020, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.97021570,
+                  "lng" : -38.5122130
+               },
+               "southwest" : {
+                  "lat" : -12.97098570,
+                  "lng" : -38.5129990
+               }
+            },
+            "location" : {
+               "lat" : -12.97039750,
+               "lng" : -38.5123660
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96925171970850,
+                  "lng" : -38.51125701970849
+               },
+               "southwest" : {
+                  "lat" : -12.97194968029150,
+                  "lng" : -38.51395498029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-130",
+               "short_name" : "40015-130",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-130, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.96984570,
+                  "lng" : -38.5117280
+               },
+               "southwest" : {
+                  "lat" : -12.97068070,
+                  "lng" : -38.5125780
+               }
+            },
+            "location" : {
+               "lat" : -12.97013990,
+               "lng" : -38.51192610
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96891421970850,
+                  "lng" : -38.51080401970850
+               },
+               "southwest" : {
+                  "lat" : -12.97161218029150,
+                  "lng" : -38.51350198029149
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-070",
+               "short_name" : "40015-070",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-070, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.97030070,
+                  "lng" : -38.51086799999999
+               },
+               "southwest" : {
+                  "lat" : -12.97159570,
+                  "lng" : -38.5121180
+               }
+            },
+            "location" : {
+               "lat" : -12.97073420,
+               "lng" : -38.51126930
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96959921970850,
+                  "lng" : -38.51014401970850
+               },
+               "southwest" : {
+                  "lat" : -12.97229718029150,
+                  "lng" : -38.51284198029150
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-280",
+               "short_name" : "40015-280",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-280, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.97068070,
+                  "lng" : -38.5111130
+               },
+               "southwest" : {
+                  "lat" : -12.97157570,
+                  "lng" : -38.5117280
+               }
+            },
+            "location" : {
+               "lat" : -12.97084860,
+               "lng" : -38.51126930
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96977921970850,
+                  "lng" : -38.51007151970850
+               },
+               "southwest" : {
+                  "lat" : -12.97247718029150,
+                  "lng" : -38.51276948029150
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-080",
+               "short_name" : "40015-080",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-080, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.97023070,
+                  "lng" : -38.5103620
+               },
+               "southwest" : {
+                  "lat" : -12.97127570,
+                  "lng" : -38.51129299999999
+               }
+            },
+            "location" : {
+               "lat" : -12.97084860,
+               "lng" : -38.51126930
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96940421970850,
+                  "lng" : -38.50947851970850
+               },
+               "southwest" : {
+                  "lat" : -12.97210218029150,
+                  "lng" : -38.51217648029150
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-150",
+               "short_name" : "40015-150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-150, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.96965570,
+                  "lng" : -38.5105880
+               },
+               "southwest" : {
+                  "lat" : -12.97045470,
+                  "lng" : -38.5116380
+               }
+            },
+            "location" : {
+               "lat" : -12.97025420,
+               "lng" : -38.51126930
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96870621970850,
+                  "lng" : -38.50976401970850
+               },
+               "southwest" : {
+                  "lat" : -12.97140418029150,
+                  "lng" : -38.51246198029150
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-090",
+               "short_name" : "40015-090",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-090, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.97039070,
+                  "lng" : -38.5107580
+               },
+               "southwest" : {
+                  "lat" : -12.97142070,
+                  "lng" : -38.5114480
+               }
+            },
+            "location" : {
+               "lat" : -12.97084860,
+               "lng" : -38.51126930
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96955671970850,
+                  "lng" : -38.50975401970850
+               },
+               "southwest" : {
+                  "lat" : -12.97225468029150,
+                  "lng" : -38.51245198029150
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40015-010",
+               "short_name" : "40015-010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40015-010, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.96727570,
+                  "lng" : -38.5087380
+               },
+               "southwest" : {
+                  "lat" : -12.97272570,
+                  "lng" : -38.51376810
+               }
+            },
+            "location" : {
+               "lat" : -12.96965990,
+               "lng" : -38.51126920
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96727570,
+                  "lng" : -38.5087380
+               },
+               "southwest" : {
+                  "lat" : -12.97272570,
+                  "lng" : -38.51376810
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40010-020",
+               "short_name" : "40010-020",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40010-020, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.96642070,
+                  "lng" : -38.5088930
+               },
+               "southwest" : {
+                  "lat" : -12.97219570,
+                  "lng" : -38.51422810
+               }
+            },
+            "location" : {
+               "lat" : -12.96906560,
+               "lng" : -38.5119260
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96642070,
+                  "lng" : -38.5088930
+               },
+               "southwest" : {
+                  "lat" : -12.97219570,
+                  "lng" : -38.51422810
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40010-000",
+               "short_name" : "40010-000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, 40010-000, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.96050570,
+                  "lng" : -38.5059030
+               },
+               "southwest" : {
+                  "lat" : -12.97181070,
+                  "lng" : -38.51483810000001
+               }
+            },
+            "location" : {
+               "lat" : -12.96620840,
+               "lng" : -38.50995540
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96050570,
+                  "lng" : -38.5059030
+               },
+               "southwest" : {
+                  "lat" : -12.97181070,
+                  "lng" : -38.51483810000001
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comércio",
+               "short_name" : "Comércio",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comércio, Salvador - BA, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.95721070,
+                  "lng" : -38.50055790
+               },
+               "southwest" : {
+                  "lat" : -12.98268580,
+                  "lng" : -38.51994810000001
+               }
+            },
+            "location" : {
+               "lat" : -12.96607120,
+               "lng" : -38.50798520
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.95721070,
+                  "lng" : -38.50055790
+               },
+               "southwest" : {
+                  "lat" : -12.98268580,
+                  "lng" : -38.51994810000001
+               }
+            }
+         },
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salvador - BA, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.7238790,
+                  "lng" : -38.3044910
+               },
+               "southwest" : {
+                  "lat" : -13.0267910,
+                  "lng" : -38.7002440
+               }
+            },
+            "location" : {
+               "lat" : -12.97038170,
+               "lng" : -38.5123820
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.7238790,
+                  "lng" : -38.3044910
+               },
+               "southwest" : {
+                  "lat" : -13.0267910,
+                  "lng" : -38.7002440
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brasil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bahia, Brasil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.532432999999999,
+                  "lng" : -37.3590020
+               },
+               "southwest" : {
+                  "lat" : -18.3234880,
+                  "lng" : -46.6294050
+               }
+            },
+            "location" : {
+               "lat" : -11.40987370,
+               "lng" : -41.28085770
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.532432999999999,
+                  "lng" : -37.3590020
+               },
+               "southwest" : {
+                  "lat" : -18.3234880,
+                  "lng" : -46.6294050
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

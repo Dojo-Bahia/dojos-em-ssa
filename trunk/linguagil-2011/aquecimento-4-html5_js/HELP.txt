@@ -1,0 +1,23 @@
+URL LAST.FM TOP TRACKS
+   http://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=[PAIS]&api_key=b25b959554ed76058ac220b7b2e0a026&format=json&limit=[LIMITE]
+
+URL GOOGLE MAPS
+   http://maps.google.com/maps/api/geocode/json?latlng=[LATITUDE],[LONGITUDE]&sensor=[true|false]
+
+MÉTODOS DO JASMINE
+   expect(esperado).toEqual(valor)         => Equivalentes
+   expect(esperado).toBe(valor)            => Idênticos (mesmo objeto)
+   expect(esperado).toMatch(regex)         => Expressão Regular
+   expect(esperado).toBeDefined()          => Deve estar definido
+   expect(esperado).toBeUndefined()        => Deve estar indefinido
+   expect(esperado).toBeNull()             => Deve estar nulo
+   expect(esperado).toBeTruthy()           => Deve ser verdadeiro
+   expect(esperado).toBeFalsy()            => Deve ser falso
+   expect(esperado).toContain(valor)       => String ou vetor deve conter o valor
+   expect(esperado).toBeLessThan(valor)    => Menor que
+   expect(esperado).toBeGreaterThan(valor) => Maior que
+   expect(esperado).toThrow(erro)          => Deve lançar a exceção
+
+   Pode se usar a negação em todos:
+      expect(esperado).not.toEqual(valor)         => Diferente
+      expect(esperado).not.toBeGreaterThan(valor) => Menor e Igual
