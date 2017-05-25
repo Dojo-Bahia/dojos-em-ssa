@@ -1,0 +1,8 @@
+{
+  "name": "dojo",
+  "version": "0.0.1",
+  "description": "Coding dojo in Javascript",
+  "main": "index.js",
+  "author": "Dojo Bahia community",
+  "license": "MIT"
+}
