@@ -5,7 +5,13 @@
   "main": "index.js",
   "author": "Dojo Bahia community",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest-cli": "^20.0.4"
+  },
+  "jest": {
+    "testEnvironment": "node"
   }
 }
