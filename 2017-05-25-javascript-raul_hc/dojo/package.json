@@ -4,5 +4,8 @@
   "description": "Coding dojo in Javascript",
   "main": "index.js",
   "author": "Dojo Bahia community",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
 }
