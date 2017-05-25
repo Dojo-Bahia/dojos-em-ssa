@@ -1,5 +1,8 @@
-module.exports = sum
+export default sum
 
-function sum(a,b) {
+function sum(
+  a,
+  b,
+) {
   return a + b
 }
