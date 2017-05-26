@@ -2,6 +2,8 @@
 
 ## Organização e divulgação
 
+![Banner Coding Dojo de TDD + PHP no mundo real](hackagilize-2017-05-24.png)
+
 Criamos um evento no [sympla](https://www.sympla.com.br/hackagilize-coding-dojo-tdd--php-no-mundo-real__147758) e divulgamos na [página da Agilize no Facebook](https://www.facebook.com/agilizeonline/posts/1560213647345259). 
  
 O dojo aconteceu em uma sala no térreo do prédio onde fica a [Agilize Contabilidade Online](https://www.agilize.com.br/). [Thiago Colares](https://github.com/colares) ficou responsável por recepcionar o pessoal.
