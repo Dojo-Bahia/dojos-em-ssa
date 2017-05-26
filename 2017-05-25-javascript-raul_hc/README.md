@@ -4,6 +4,10 @@
 
 Foi divulgado no [site do raul](http://raulhc.cc/Agenda.2017-05-25-CodingDojoDeJavascript). [Vinicius Melo]() ficou responsável por abrir o hacker club e recepcionar o pessoal.
 
+[](img/2017-05-25-divulgacao-raul_hc.jpg)
+
+[![Folder](img/2017-05-25-divulgacao-raul_hc.jpg)](http://raulhc.cc/Agenda.2017-05-25-CodingDojoDeJavascript)
+
 Não houve inscrições, e cerca de 12 pessoas compareceram.
 
 ## O evento
@@ -39,3 +43,9 @@ Não houve inscrições, e cerca de 12 pessoas compareceram.
 
 - Como funcionam os testes no Jest?
 - Quando será o próximo?
+
+## Fotos
+
+![Piloto e copiloto 1](img/photo4990207353605433302.jpg)
+
+![Piloto e copiloto 2](img/photo4990207353605433303.jpg)
