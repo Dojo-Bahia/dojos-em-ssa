@@ -4,3 +4,6 @@
 
 Coding dojos realizados em Salvador e Região Metropolitana.
 
+## Padrão de nomes
+
+* YYYY-MM-DD-linguagem_ou_topico-local
