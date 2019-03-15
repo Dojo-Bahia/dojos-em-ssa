@@ -42,12 +42,12 @@ E nos grupos do facebook:
 ## O evento
 
 Estavam presentes
-- [https://github.com/f-lima](@f-lima)
-- [https://github.com/gomex](@gomex)
-- [https://github.com/loulix](@loulix)
-- [https://github.com/luisaoba](@luisaoba)
-- [https://github.com/mauriciovieira](@mauriciovieira)
-- [https://github.com/rsandrade](@rsandrade)
+- [@f-lima](https://github.com/f-lima)
+- [@gomex](https://github.com/gomex)
+- [@loulix](https://github.com/loulix)
+- [@luisaoba](https://github.com/luisaoba)
+- [@mauriciovieira](https://github.com/mauriciovieira)
+- [@rsandrade](https://github.com/rsandrade)
 - alan.moreno@hotmail.com
 
 Fizemos rodadas de 5 minutos por cerca de 1h20m.
