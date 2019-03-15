@@ -4,8 +4,7 @@
 
 Foi divulgado nas listas e redes sociais. [Ricardo S](https://t.me/massarelos) ficou responsável por abrir o hacker club e recepcionar o pessoal.
 
-[Geisa S](https://)
-[![2019-03-13-divulgacao-raul_hc](https://user-images.githubusercontent.com/95258/54295588-1b798000-4592-11e9-860e-e353e7c314ca.jpg)
+![2019-03-13-divulgacao-raul_hc](https://user-images.githubusercontent.com/95258/54295588-1b798000-4592-11e9-860e-e353e7c314ca.jpg)
 
 Texto enviado para as listas:
 - dojo-bahia@googlegroups.com
@@ -19,20 +18,20 @@ e para os grupos do telegram:
 - [Meetup Bahia](https://t.me/meetupba)
 
 > Pessoal,
-Desculpas pelo crossposting (raulhc, dojo-bahia e grupy-ba)
+> Desculpas pelo crossposting (raulhc, dojo-bahia e grupy-ba)
 
-Amanhã, quinta-feira, 14/03/2019 vamos realizar um Coding Dojo no Raul HackerClub das 19h00 às 21h00
+> Amanhã, quinta-feira, 14/03/2019 vamos realizar um Coding Dojo no Raul HackerClub das 19h00 às 21h00
 
-Agenda:
-- 18:00 as 19:00, abertura do local e apresentações pessoais
-- 19:00 as 20:00, coding dojo
-- 20:00 as 20:30 retrospectiva e discussão sobre a atividade
-- 20:30 as 21:00 reunião do Grupy-BA Salvador
+> Agenda:
+> - 18:00 as 19:00, abertura do local e apresentações pessoais
+> - 19:00 as 20:00, coding dojo
+> - 20:00 as 20:30 retrospectiva e discussão sobre a atividade
+> - 20:30 as 21:00 reunião do Grupy-BA Salvador
 
-O RaulHC estará aberto a partir das 18h00 (obrigado Ricardo!)
-Endereço: Rua da Paciência, nº 257, CEP: 41950-010, Salvador - Bahia. Em cima do antigo Irish Pub Dubliners, ou do lado do Chupito, sala 101 (primeiro andar). http://raulhc.cc/Doc/Sede#ComoChegar
+> O RaulHC estará aberto a partir das 18h00 (obrigado Ricardo!)
+> Endereço: Rua da Paciência, nº 257, CEP: 41950-010, Salvador - Bahia. Em cima do antigo Irish Pub Dubliners, ou do lado do Chupito, sala 101 (primeiro andar). http://raulhc.cc/Doc/Sede#ComoChegar
 
-Atenção: o evento não possui patrocínio, então o coffee break é comunitário. Traga algo pra si e pros outros.
+> Atenção: o evento não possui patrocínio, então o coffee break é comunitário. Traga algo pra si e pros outros.
 
 ## O evento
 
@@ -107,6 +106,6 @@ Ao fim, discutimos um pouco alguns deles, mas a discussão não será relatada a
 
 ![Dojo](img/photo_2019-03-15-dojo2.jpeg)
 
-![Retrospectiva](photo_2019-03-15-retrospectiva1.jpeg)
+![Retrospectiva](img/photo_2019-03-15-retrospectiva1.jpeg)
 
-![Retrospectiva](photo_2019-03-15-retrospectiva2.jpeg)
+![Retrospectiva](img/photo_2019-03-15-retrospectiva2.jpeg)
