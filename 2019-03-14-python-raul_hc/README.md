@@ -2,47 +2,53 @@
 
 ## Organização e divulgação.
 
-Foi divulgado nas listas e redes sociais. [Ricardo S](https://t.me/massarelos) ficou responsável por abrir o hacker club e recepcionar o pessoal.
+Foi divulgado nas listas e redes sociais. [Ricardo S](https://t.me/massarelos) ficou responsável por abrir o hacker club e recepcionar o pessoal. [Geisa S](https://t.me/ge1sasant0s) fez a imagem para divulgação
+
 
 ![2019-03-13-divulgacao-raul_hc](https://user-images.githubusercontent.com/95258/54295588-1b798000-4592-11e9-860e-e353e7c314ca.jpg)
 
 Texto enviado para as listas:
 - dojo-bahia@googlegroups.com
-- raulhc@lists.riseup.net
 - grupy-ba@googlegroups.com
+- raulhc@lists.riseup.net
 
-e para os grupos do telegram:
-- [Grupy-BA](https://t.me/grupyba)
+para os grupos do telegram:
 - [dojo-bahia](https://t.me/dojobahia)
-- [Raul HackerClub não-oficial](https://t.me/raulhackerclubnaooficial)
+- [Grupy-BA](https://t.me/grupyba)
 - [Meetup Bahia](https://t.me/meetupba)
+- [Raul HackerClub não-oficial](https://t.me/raulhackerclubnaooficial)
+
+E nos grupos do facebook:
+- [GrupyBA](https://web.facebook.com/groups/grupyba/permalink/3061540480538724/)
+- [TI Bahia](https://web.facebook.com/groups/213479555518461/permalink/1009844525881956/)
+- [TI na Bahia](https://web.facebook.com/groups/TInaBahia/permalink/2173992946021570/)
 
 > Pessoal,
 > Desculpas pelo crossposting (raulhc, dojo-bahia e grupy-ba)
-
+>
 > Amanhã, quinta-feira, 14/03/2019 vamos realizar um Coding Dojo no Raul HackerClub das 19h00 às 21h00
-
+>
 > Agenda:
 > - 18:00 as 19:00, abertura do local e apresentações pessoais
 > - 19:00 as 20:00, coding dojo
 > - 20:00 as 20:30 retrospectiva e discussão sobre a atividade
 > - 20:30 as 21:00 reunião do Grupy-BA Salvador
-
+>
 > O RaulHC estará aberto a partir das 18h00 (obrigado Ricardo!)
 > Endereço: Rua da Paciência, nº 257, CEP: 41950-010, Salvador - Bahia. Em cima do antigo Irish Pub Dubliners, ou do lado do Chupito, sala 101 (primeiro andar). http://raulhc.cc/Doc/Sede#ComoChegar
-
+>
 > Atenção: o evento não possui patrocínio, então o coffee break é comunitário. Traga algo pra si e pros outros.
 
 ## O evento
 
 Estavam presentes
-- @mauriciovieira
-- @luisaoba
-- @gomex
-- @loulix
-- @rsandrade
+- [https://github.com/f-lima](@f-lima)
+- [https://github.com/gomex](@gomex)
+- [https://github.com/loulix](@loulix)
+- [https://github.com/luisaoba](@luisaoba)
+- [https://github.com/mauriciovieira](@mauriciovieira)
+- [https://github.com/rsandrade](@rsandrade)
 - alan.moreno@hotmail.com
-- @f-lima
 
 Fizemos rodadas de 5 minutos por cerca de 1h20m.
 
